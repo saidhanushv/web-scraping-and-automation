@@ -39,7 +39,8 @@ pip install requests beautifulsoup4 selenium
 2. Run the Python script:
   ```python your_script_name.py```
 
-Quick Note: I am looking for a collaborator to work with Selenium automation challenges in this project. If you have experience in Selenium or any suggestions for improvements, feel free to reach out to me. You can find my contact information in my profile xD. Looking forward to connecting with potential collaborators!
+### Quick Note
+I am looking for a collaborator to work with Selenium automation challenges in this project. If you have experience in Selenium or any suggestions for improvements, feel free to reach out to me. You can find my contact information in my profile xD. Looking forward to connecting with potential collaborators!
 
 ## Disclaimer
 This script is only a personal project to understand how web scraping works ie.., for educational purposes only. The usage of this script may violate Zillow's terms of service, and scraping websites without permission may be illegal in some jurisdictions. Use it responsibly and at your own risk.
